@@ -144,4 +144,4 @@ This project is a practical showcase of integrating **React Query** into a **Rea
 - Declarative asynchronous data handling.
 - Optimistic updates and error boundaries.
 - Centralized cache management with minimal boilerplate.
-- Scalable architecture ready for production-level CRUD applications.
+- Scalable architecture ready for production-level CRUD applications. 
