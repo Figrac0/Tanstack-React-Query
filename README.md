@@ -11,7 +11,7 @@ The main focus is on **React Query hooks** and their interaction with React Rout
 Each part of the app showcases a specific pattern of managing asynchronous state in a declarative and predictable way.
 
 ---
-
+ 
 ## 📸 Project Preview
 
 <h3 align="center">📸 Screenshots</h3>
